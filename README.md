@@ -1,4 +1,4 @@
-#MethodTime
+# MethodTime
 
 ###### Description
 This lib makes the measurement of method runtime by getting difference between start method time and finish method time.
