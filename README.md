@@ -2,7 +2,7 @@
 
 ###### Description
 This lib makes the measurement of method runtime by getting difference between start method time and finish method time.
-######Using
+###### Using
 Add [a MethodTime.jar](/src/main/out/MethodTime.jar) as a library to your project, add annotation `@MethodTime` to method you want to measure and finally compile it. By default it measures in nanosecnds.
 ###### Example
 If one wants to measure `testMethod()` in nanoseconds and `testMethodMilliseconds()` in milliseconds it should be coding like this:
